@@ -1,2 +1,0 @@
-# ClaseDispositivosmoviles
-Created with CodeSandbox
